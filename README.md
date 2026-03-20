@@ -1,0 +1,9 @@
+# Maple's Chicken Collection
+
+Minecraft 1.21.11 | Version 1.0
+
+Download the mod here! :)
+
+CurseForge: https://legacy.curseforge.com/minecraft/mc-mods/maples-chicken-collection
+
+Modrinth: https://modrinth.com/mod/maples-chicken-collection
